@@ -9,3 +9,5 @@ Easy-to-understand code structure
 HTML 
 CSS 
 JavaScript
+
+Link To Clock- https://om-handa.github.io/Digital-Clock/Digitalclock.html
